@@ -1,0 +1,5 @@
+git clone [link]
+git pull (lấy dữ liệu về)
+git add . (gói dữ liệu)
+git commit -m "thong gi do" (đóng gói + )
+git push (đẩy file lên github)
