@@ -1,0 +1,156 @@
+.to-ti-khon {
+  position: absolute;
+  top: 86px;
+  left: 471px;
+  font-size: var(--font-size-13xl);
+  letter-spacing: -0.05em;
+  line-height: 80px;
+  font-weight: 600;
+  color: var(--color-black);
+  text-align: center;
+}
+.h-v-tn-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 360px;
+  height: 60px;
+}
+.text-input {
+  position: absolute;
+  top: 29px;
+  left: 34px;
+  display: inline-block;
+  width: 318px;
+}
+.h-v-tn-item {
+  position: absolute;
+  top: 30px;
+  left: 26.5px;
+  width: 0;
+  height: 20px;
+  object-fit: contain;
+  opacity: 0;
+}
+.h-v-tn-inner {
+  position: absolute;
+  top: 23px;
+  left: 32px;
+  width: 270px;
+  height: 32px;
+}
+.text-field {
+  position: absolute;
+  top: 18px;
+  left: 27px;
+  color: var(--color-darkslategray-100);
+  display: inline-block;
+  width: 314px;
+}
+.chc-v,
+.email,
+.h-v-tn,
+.mt-khu,
+.s-in-thoi,
+.tn-ng-nhp {
+  position: absolute;
+  top: 226px;
+  left: 164px;
+  width: 400px;
+  height: 60px;
+  overflow: hidden;
+}
+.chc-v,
+.email,
+.mt-khu,
+.s-in-thoi,
+.tn-ng-nhp {
+  top: 351px;
+}
+.chc-v,
+.mt-khu,
+.s-in-thoi,
+.tn-ng-nhp {
+  top: 476px;
+}
+.chc-v,
+.mt-khu,
+.tn-ng-nhp {
+  top: 226px;
+  left: 747px;
+}
+.chc-v,
+.mt-khu {
+  top: 346px;
+}
+.chc-v {
+  top: 471px;
+}
+.chnh-sa-child {
+  position: absolute;
+  height: 100%;
+  width: 95.64%;
+  top: 0;
+  right: 4.36%;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-steelblue-200);
+}
+.vector-icon2 {
+  position: absolute;
+  height: 64.35%;
+  width: 12.31%;
+  top: 17.83%;
+  right: 79.83%;
+  bottom: 17.83%;
+  left: 7.86%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  display: none;
+}
+.chnh-sa1 {
+  position: absolute;
+  height: 67.83%;
+  width: 75.47%;
+  top: 14.35%;
+  left: 24.53%;
+  letter-spacing: -0.05em;
+  line-height: 20px;
+  font-weight: 600;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+}
+.chnh-sa,
+.chnh-sa2 {
+  position: absolute;
+  top: 677px;
+  left: 831px;
+  width: 117px;
+  height: 46px;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.chnh-sa2 {
+  left: 990px;
+}
+.to-tk {
+  width: 100%;
+  position: relative;
+  height: 832px;
+  overflow: hidden;
+  background-image: url(./public/2ng-nhp@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-dimgray);
+  font-family: var(--font-work-sans);
+}
