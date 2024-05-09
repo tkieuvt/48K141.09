@@ -1,0 +1,28 @@
+.property-1default-icon {
+  position: absolute;
+  top: 30px;
+  left: 20px;
+  width: 326px;
+  height: 314px;
+}
+.property-1variant2-icon,
+.property-1variant3-icon {
+  position: absolute;
+  top: 344px;
+  left: 12px;
+  width: 326px;
+  height: 314px;
+}
+.property-1variant3-icon {
+  top: 668px;
+  left: -2px;
+}
+.chuyn-ng {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  height: 1002px;
+  overflow: hidden;
+}
