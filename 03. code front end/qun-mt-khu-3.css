@@ -1,0 +1,125 @@
+.group-child572 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-steelblue-200);
+  width: 360px;
+  height: 60px;
+}
+.lu4 {
+  position: absolute;
+  top: 19px;
+  left: 155px;
+}
+.rectangle-parent179 {
+  position: absolute;
+  top: 467px;
+  left: 450px;
+  width: 360px;
+  height: 60px;
+  cursor: pointer;
+}
+.hu2 {
+  position: absolute;
+  top: calc(50% - 11px);
+  left: calc(50% - 25px);
+}
+.rectangle-parent180 {
+  position: absolute;
+  top: 546px;
+  left: 450px;
+  width: 360px;
+  height: 60px;
+  cursor: pointer;
+  text-align: center;
+}
+.t-li-mt1,
+.vui-lng-t1 {
+  position: absolute;
+  top: 31px;
+  left: 35px;
+  font-size: var(--font-size-41xl);
+  font-weight: 600;
+  color: var(--color-black);
+  display: inline-block;
+  width: 1112px;
+  height: 140px;
+}
+.vui-lng-t1 {
+  top: 233px;
+  left: 366px;
+  font-size: var(--font-size-26xl);
+  color: var(--color-steelblue-200);
+  width: 1093px;
+  height: 69px;
+}
+.text-input-components-child103 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 360px;
+  height: 60px;
+}
+.text-input57 {
+  position: absolute;
+  top: 29px;
+  left: 34px;
+  display: inline-block;
+  width: 318px;
+}
+.text-input-components-child104 {
+  position: absolute;
+  top: 30px;
+  left: 26.5px;
+  width: 0;
+  height: 20px;
+  object-fit: contain;
+  opacity: 0;
+}
+.text-input-components-child105 {
+  position: absolute;
+  top: 23px;
+  left: 32px;
+  width: 270px;
+  height: 32px;
+}
+.text-field57 {
+  position: absolute;
+  top: 18px;
+  left: 27px;
+  color: var(--color-darkslategray-100);
+  display: inline-block;
+  width: 314px;
+}
+.text-input-components36,
+.text-input-components37 {
+  position: absolute;
+  top: 314px;
+  left: 450px;
+  width: 400px;
+  height: 60px;
+  overflow: hidden;
+  color: var(--color-dimgray);
+}
+.text-input-components37 {
+  top: 394px;
+}
+.qun-mt-khu-3 {
+  width: 100%;
+  position: relative;
+  height: 832px;
+  overflow: hidden;
+  background-image: url(./public/2ng-nhp@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-work-sans);
+}

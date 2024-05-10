@@ -1,0 +1,149 @@
+.group-child395 {
+  position: absolute;
+  top: 21px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-steelblue-200);
+  width: 360px;
+  height: 60px;
+}
+.trang-tip-theo {
+  position: absolute;
+  top: 40px;
+  left: 98px;
+  display: inline-block;
+  width: 163px;
+  height: 20px;
+}
+.group-child396,
+.rectangle-parent99 {
+  position: absolute;
+  top: 0;
+  left: 157px;
+  width: 100px;
+  height: 100px;
+}
+.rectangle-parent99 {
+  top: 446px;
+  left: 450px;
+  width: 360px;
+  cursor: pointer;
+}
+.group-child397 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-steelblue-200);
+  width: 360px;
+  height: 60px;
+}
+.hu {
+  position: absolute;
+  top: calc(50% - 11px);
+  left: calc(50% - 19px);
+}
+.rectangle-parent100 {
+  position: absolute;
+  top: 546px;
+  left: 450px;
+  width: 360px;
+  height: 60px;
+  cursor: pointer;
+  text-align: center;
+}
+.nhp-email-ca {
+  position: absolute;
+  top: 306px;
+  left: 111px;
+  font-size: var(--font-size-21xl);
+  font-weight: 500;
+  color: var(--color-steelblue-200);
+  display: inline-block;
+  width: 1112px;
+  height: 70px;
+}
+.text-input-components-child94 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 360px;
+  height: 60px;
+}
+.text-input54 {
+  position: absolute;
+  top: 29px;
+  left: 34px;
+  display: inline-block;
+  width: 318px;
+}
+.text-input-components-child95 {
+  position: absolute;
+  top: 30px;
+  left: 26.5px;
+  width: 0;
+  height: 20px;
+  object-fit: contain;
+  opacity: 0;
+}
+.text-input-components-child96 {
+  position: absolute;
+  top: 23px;
+  left: 32px;
+  width: 270px;
+  height: 32px;
+}
+.text-field54 {
+  position: absolute;
+  top: 18px;
+  left: 27px;
+  color: var(--color-darkslategray-100);
+  display: inline-block;
+  width: 314px;
+}
+.text-input-components33 {
+  position: absolute;
+  top: 388px;
+  left: 449px;
+  width: 400px;
+  height: 60px;
+  overflow: hidden;
+  color: var(--color-dimgray);
+}
+.qun-mt-khu {
+  font-weight: 600;
+}
+.span3 {
+  font-weight: 500;
+  color: var(--color-black);
+}
+.qun-mt-khu-container {
+  position: absolute;
+  top: 218px;
+  left: 95px;
+  font-size: var(--font-size-41xl);
+  white-space: pre-wrap;
+  text-align: center;
+  display: inline-block;
+  width: 1089px;
+  height: 76px;
+  color: var(--color-steelblue-200);
+}
+.qun-mt-khu-1 {
+  width: 100%;
+  position: relative;
+  height: 832px;
+  overflow: hidden;
+  background-image: url(./public/2ng-nhp@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-work-sans);
+}
